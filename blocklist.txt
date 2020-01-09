@@ -1,0 +1,17 @@
+#ACDSee Pro call home
+acdid.acdsystems.com
+
+#Microsoft Solitare Collection Ads
+adbroker.mp.dse.microsoft.com
+ads.api.vungle.com
+api.taboola.com
+cdn.adnxs.com
+crm.devolutions.net
+fp.msedge.net
+widgets.outbrain.com
+(^|\.)spotxcdn\.com$
+(^|\.)trafficmanager\.net$
+
+#Samsung Device Health 360 Chinese black
+(^|\.)360\.cn$
+(^|\.)360safe\.com$
