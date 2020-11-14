@@ -12,6 +12,6 @@ widgets.outbrain.com
 (^|\.)spotxcdn\.com$
 (^|\.)trafficmanager\.net$
 
-#Samsung Device Health 360 Chinese black
+#Samsung Device Health 360 Chinese block
 (^|\.)360\.cn$
 (^|\.)360safe\.com$
