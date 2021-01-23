@@ -2,13 +2,16 @@
 acdid.acdsystems.com
 
 #Microsoft Solitare Collection Ads
-adbroker.mp.dse.microsoft.com
+msmonplat.trafficmanager.net
+cdn.spotxcdn.com
+msmonplat.trafficmanager.net
+cdn.spotxcdn.com
 ads.api.vungle.com
-api.taboola.com
-cdn.adnxs.com
-crm.devolutions.net
 fp.msedge.net
+v20.events.data.microsoft.com
+cdn.adnxs.com
 widgets.outbrain.com
+api.taboola.com
 (^|\.)spotxcdn\.com$
 (^|\.)trafficmanager\.net$
 
