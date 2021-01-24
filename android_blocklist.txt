@@ -1,6 +1,3 @@
-#ACDSee Pro call home
-acdid.acdsystems.com
-
 #Microsoft Solitare Collection Ads
 msmonplat.trafficmanager.net
 cdn.spotxcdn.com
