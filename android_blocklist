@@ -5,14 +5,11 @@ msmonplat.trafficmanager.net
 cdn.spotxcdn.com
 ads.api.vungle.com
 fp.msedge.net
-#v20.events.data.microsoft.com
-adbroker.mp.dse.microsoft.com
 cdn.adnxs.com
 widgets.outbrain.com
+adbroker.mp.dse.microsoft.com
 api.taboola.com
 api.vungle.com
-(^|\.)spotxcdn\.com$
-(^|\.)trafficmanager\.net$
 
 #Samsung Device Health 360 Chinese block
 (^|\.)360\.cn$
