@@ -1,8 +1,6 @@
 #Microsoft Solitare Collection Ads
 msmonplat.trafficmanager.net
 cdn.spotxcdn.com
-msmonplat.trafficmanager.net
-cdn.spotxcdn.com
 ads.api.vungle.com
 fp.msedge.net
 cdn.adnxs.com
@@ -10,6 +8,12 @@ widgets.outbrain.com
 adbroker.mp.dse.microsoft.com
 api.taboola.com
 api.vungle.com
+ads.aerserv.com
+prod-ads.aerserv.com
+aerserv-ads.trafficmanager.net
+pips.taboola.com
+mcg-msmonplat.trafficmanager.net
+ads.inmobi.com
 
 #Samsung Device Health 360 Chinese block
 (^|\.)360\.cn$
