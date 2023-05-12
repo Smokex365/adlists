@@ -1,3 +1,7 @@
+# Title: Android Blocklist.txt
+# Homepage: https://github.com/Smokex365/adlists
+# Source: https://raw.githubusercontent.com/Smokex365/adlists/master/android_blocklist.txt
+
 #Microsoft Solitare Collection Ads
 #solitaire_ad_block_msn_taboola_vungle_outbrain_engageya_openx_inmobi
 0.0.0.0 popup.taboola.com

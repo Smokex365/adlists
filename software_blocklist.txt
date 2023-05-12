@@ -1,2 +1,6 @@
+# Title: Software Blocklist.txt
+# Homepage: https://github.com/Smokex365/adlists
+# Source: https://raw.githubusercontent.com/Smokex365/adlists/master/software_blocklist.txt
+
 #ACDSee Pro call home
 acdid.acdsystems.com
