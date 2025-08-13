@@ -2,7 +2,10 @@
 bit.ly
 
 # Google
-clients.?.google.com
+clients2.google.com
+clients3.google.com
+clients4.google.com
+clients5.google.com
 
 # Amazon
 s3.amazonaws.com
@@ -13,4 +16,4 @@ vortex.data.microsoft.com
 
 # Network Services
 ipinfo.io
-*.letsencrypt.org
+letsencrypt.org
