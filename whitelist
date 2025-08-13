@@ -4,8 +4,7 @@ clients3.google.com
 clients4.google.com
 clients5.google.com
 ipinfo.io
-monova.org
-ocsp.int-x3.letsencrypt.org
+*.letsencrypt.org
 s3.amazonaws.com
 v10.events.data.microsoft.com
 vortex.data.microsoft.com
